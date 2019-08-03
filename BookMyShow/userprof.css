@@ -1,0 +1,19 @@
+h5{
+    font-style: italic;
+    font-family:serif;
+    color: lightblue;
+}
+.vis{
+  background-image: url(https://trickvilla.com/wp-content/uploads/Wood-Background-Image.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg-image{
+  background-image: url(background2.jpg);
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+}
+.bg-rest{
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.4);
+}
